@@ -1,5 +1,5 @@
 ## 极客聊 V0.1 预览版
-该版本为预览版，最新版本已移至【】进行开发。
+该版本为预览版，最新版本已移至【https://github.com/geekerstar/geek-chat】进行开发。
 
 ## 前端
 采用MUI 、 HTML5+ 、 HBuilder开发
